@@ -1,0 +1,27 @@
+{
+  "name": "transfernews",
+  "version": "1.0.0",
+  "description": "mongo scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorines/transferNews.git"
+  },
+  "author": "sorines",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sorines/transferNews/issues"
+  },
+  "homepage": "https://github.com/sorines/transferNews#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.2.4",
+    "request": "^2.87.0"
+  }
+}
